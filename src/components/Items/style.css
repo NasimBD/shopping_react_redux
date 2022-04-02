@@ -1,0 +1,31 @@
+.container-fluid{
+    background-color: var(--xLight);
+}
+
+.items-list{
+    display: flex;
+    width: 90%;
+}
+
+
+/* ----------------------------- media */
+/* ----------------------------- 1 */
+@media screen and (max-width:576px){
+    .items-list{
+        flex-flow: column nowrap;
+        /* align-items: center; */
+    }
+  }
+  
+  /* ----------------------------- 2 */
+  @media screen and (min-width:576px) and (max-width:769px){
+    .items-list{
+        flex-flow: row wrap;
+    }
+  }
+  /* ----------------------------- 3 */
+  @media screen and (min-width:769px){
+    .items-list{
+        flex-flow: row wrap;
+    }
+  }

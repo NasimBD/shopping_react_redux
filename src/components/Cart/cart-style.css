@@ -1,0 +1,47 @@
+.container-fluid{
+    width: 90%;
+}
+
+.text-success-n{
+    color: var(--darkGreen)
+}
+
+.img-fluid-n{
+    width: 100%;
+    object-fit: contain;
+}
+
+.item-title{
+    font-size: 0.9rem;
+}
+
+.qty{
+    width: 3rem;
+    
+}
+
+.fa-trash-alt{
+    cursor: pointer;
+}
+
+
+
+
+@media screen and (max-width:576px){
+ .img-fluid-n{
+    height: 4rem;
+    }
+    
+}
+  
+  @media screen and (min-width:576px) and (max-width:769px){
+   .img-fluid-n{
+        height: 5rem;
+        }
+    }
+
+  @media screen and (min-width:769px){
+    .img-fluid-n{
+            height: 6rem;
+        }
+    }
