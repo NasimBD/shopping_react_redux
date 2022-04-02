@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shopping_react_redux/static/css/main.3e51cb02.css",
+    "main.js": "/shopping_react_redux/static/js/main.1273a1ea.js",
+    "static/media/blooming-hop.jpg": "/shopping_react_redux/static/media/blooming-hop.d8b30e641eaaa0a9ec03.jpg",
+    "static/media/Comfortaa-Light.eot": "/shopping_react_redux/static/media/Comfortaa-Light.d980a9d9d8a83a796e4e.eot",
+    "static/media/Comfortaa-Regular.eot": "/shopping_react_redux/static/media/Comfortaa-Regular.f3f3a2a9df67dcf5b232.eot",
+    "static/media/Comfortaa-Regular.woff": "/shopping_react_redux/static/media/Comfortaa-Regular.077176d0655146314f0e.woff",
+    "static/media/Comfortaa-Light.woff": "/shopping_react_redux/static/media/Comfortaa-Light.eb114a8b6a61423e5fc3.woff",
+    "static/media/Comfortaa-Regular.woff2": "/shopping_react_redux/static/media/Comfortaa-Regular.c3e336750e5922b4ee8b.woff2",
+    "static/media/Comfortaa-Light.woff2": "/shopping_react_redux/static/media/Comfortaa-Light.881f76691f2eaa63205d.woff2",
+    "index.html": "/shopping_react_redux/index.html",
+    "main.3e51cb02.css.map": "/shopping_react_redux/static/css/main.3e51cb02.css.map",
+    "main.1273a1ea.js.map": "/shopping_react_redux/static/js/main.1273a1ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e51cb02.css",
+    "static/js/main.1273a1ea.js"
+  ]
+}
